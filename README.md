@@ -43,4 +43,4 @@ This project analyses the business performance of the UK retail sector across th
 - Improvements: Integrate real retail datasets; add regional analysis; build interactive dashboards
 
 ### 9. Demo Video Link
-[Add your Mediasite link here]
+[https://video.xjtlu.edu.cn/Mediasite/Play/883554610ac14d93adb709e5978c10761d]
